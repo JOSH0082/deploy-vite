@@ -1,0 +1,2 @@
+# deploy-vite
+try
